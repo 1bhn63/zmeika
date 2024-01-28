@@ -1,0 +1,14 @@
+C:\Users\insai\source\repos\ZMEIKAKAKA\ZMEIKAKAKA\bin\Debug\net8.0\ZMEIKAKAKA.exe
+C:\Users\insai\source\repos\ZMEIKAKAKA\ZMEIKAKAKA\bin\Debug\net8.0\ZMEIKAKAKA.deps.json
+C:\Users\insai\source\repos\ZMEIKAKAKA\ZMEIKAKAKA\bin\Debug\net8.0\ZMEIKAKAKA.runtimeconfig.json
+C:\Users\insai\source\repos\ZMEIKAKAKA\ZMEIKAKAKA\bin\Debug\net8.0\ZMEIKAKAKA.dll
+C:\Users\insai\source\repos\ZMEIKAKAKA\ZMEIKAKAKA\bin\Debug\net8.0\ZMEIKAKAKA.pdb
+C:\Users\insai\source\repos\ZMEIKAKAKA\ZMEIKAKAKA\obj\Debug\net8.0\ZMEIKAKAKA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\insai\source\repos\ZMEIKAKAKA\ZMEIKAKAKA\obj\Debug\net8.0\ZMEIKAKAKA.AssemblyInfoInputs.cache
+C:\Users\insai\source\repos\ZMEIKAKAKA\ZMEIKAKAKA\obj\Debug\net8.0\ZMEIKAKAKA.AssemblyInfo.cs
+C:\Users\insai\source\repos\ZMEIKAKAKA\ZMEIKAKAKA\obj\Debug\net8.0\ZMEIKAKAKA.csproj.CoreCompileInputs.cache
+C:\Users\insai\source\repos\ZMEIKAKAKA\ZMEIKAKAKA\obj\Debug\net8.0\ZMEIKAKAKA.dll
+C:\Users\insai\source\repos\ZMEIKAKAKA\ZMEIKAKAKA\obj\Debug\net8.0\refint\ZMEIKAKAKA.dll
+C:\Users\insai\source\repos\ZMEIKAKAKA\ZMEIKAKAKA\obj\Debug\net8.0\ZMEIKAKAKA.pdb
+C:\Users\insai\source\repos\ZMEIKAKAKA\ZMEIKAKAKA\obj\Debug\net8.0\ZMEIKAKAKA.genruntimeconfig.cache
+C:\Users\insai\source\repos\ZMEIKAKAKA\ZMEIKAKAKA\obj\Debug\net8.0\ref\ZMEIKAKAKA.dll
